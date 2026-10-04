@@ -206,10 +206,9 @@ Real-Estate-Housing-Market-Analysis/
 - Power BI Desktop (for viewing `.pbix` dashboard)
 - JupyterLab / VS Code Jupyter extension
 
-### 1. Clone the Repository
+### 1.Repository
 ```bash
 git clone https://github.com/Saad-TheAnalyst/Real-Estate-Housing-Market-Analysis.git
-cd Real-Estate-Housing-Market-Analysis
 ```
 
 ### 2. Install Dependencies
